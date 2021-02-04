@@ -1,7 +1,7 @@
 ﻿/**************************************************
  * Übungsnr:        04                                     
  * Programmname:    Donald&Friends                                  
- * Autor:           Michael Bucek                                
+ * Autor:           karlof002                                
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
  * Wer bin ich? Über "intelligent" gestellte Fragen
